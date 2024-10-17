@@ -1,4 +1,4 @@
-# tkinter
+# FakeBank
 Login/sign up GUI in Tkinter.
 
 Features:
